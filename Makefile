@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -Wall -Wextra -O2 -std=c++23
 
-TARGET = giuda
+TARGET = unloved
 ODIR = src
 
 SRC := $(wildcard $(ODIR)/*.cpp)
